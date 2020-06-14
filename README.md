@@ -38,20 +38,6 @@ as mine primes from 1 to the number 3 billion:<br/>
 
 <hr/>
 
-授權方式: LGPL<br/>
-This program is Little Prime64 Miner Escapable (LPME), version
-prime64_17; and is used to mine primes less than the 64 bit integer
-on the personal computer.
-Copyright (C) 2014 Y.J Gau <gau235@gmail.com>.
- This program is free software: you can redistribute it and/or
-modify it under the terms of the GNU Lesser General Public License
-version 3.0 as published by the Free Software Foundation.
- This program is distributed in the hope that it will be useful,
-but WITHOUT ANY WARRANTY; without even the implied warranty of
-MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
-See the GNU Lesser General Public License version 3.0 for more details.
- You should have received a copy of the GNU Lesser General
-Public License version 3.0 below, and a copy of the GNU General
-Public License version 3.0 below, as in the files COPYING3.lib.txt and
-COPYING3.txt along with this program.
- If not, please write to <gau235@gmail.com>.
+cmd:<br/>
+java -cp ./prime64Lgpl/prime64Lgpl3.jar
+
