@@ -1,5 +1,5 @@
 失去人性，失去很多；失去兽性，失去一切<br/>
-<br/>
+
 This java program to find primes which contains two algorithms:<br/>
 MinePrime: the traditional algorithm to find primes.<br/>
 MarkPrime: the new algorithm to find primes.
