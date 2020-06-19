@@ -40,5 +40,5 @@ as mine primes from 1 to the number 3 billion:<br/>
 
 cmd:<br/>
 set Path=C:\jdk7\bin;<br/>
-java -cp ./*; -jar prime64Lgpl3.jar
+java -cp ./*; -jar prime64Lgpl3_0619.jar
 
