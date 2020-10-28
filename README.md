@@ -11,13 +11,9 @@ as 200 times faster.
 		href="http://c64.tw/d2.jsp"
 		target="_blank" > Download (portable version) </a>
 		
-<a
-		href="http://c64.tw/w20/o/viewOpenSrc.jsp"
-		target="_blank" > src </a>
+<a href="http://c64.tw/w20/o/viewOpenSrc.jsp" target="_blank" > src </a>
 
-<a
-		href="http://c64.tw/w20/prime64Lgpl/prime64Lgpl3DiyPortable.zip"
-		target="_blank" > Download (DIY portable version) </a>
+<a href="http://c64.tw/w20/prime64Lgpl/prime64Lgpl3DiyPortable.zip" target="_blank" > Download (DIY portable version) </a>
 <br/>
 
 <img
