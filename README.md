@@ -11,6 +11,9 @@ as 200 times faster.
 <a href="http://c64.tw/w20/o/viewOpenSrc.jsp" target="_blank" > src </a><br/>
 <a href="http://c64.tw/w20/prime64Lgpl/prime64Lgpl3DiyPortable.zip" target="_blank" > Download (DIY portable version) </a><br/>
 
+<a href="https://bell-sw.com/pages/downloads/?version=java-11-lts&os=macOS&bitness=64-bit&package=lite" target="_blank" > mac OS </a>
+<br/>
+<br/>
 <img
 		src="http://c64.tw/r20/main/image/prime64UI.png"
 		width="300px"
