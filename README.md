@@ -37,7 +37,7 @@ as mine primes from 1 to the number 3 billion:<br/>
 
 8 核心的测试, 花费约 660 秒<br/>
 
-10 核心的测试, 花费约 580 秒<br/>
+10 核心的测试, 花费约 590 秒<br/>
 
 <hr/>
 
