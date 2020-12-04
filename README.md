@@ -1,4 +1,4 @@
-中華文明以東風服人<br/>
+中华文明以东风服人<br/>
 
 This java program to find primes which contains two algorithms:<br/>
 MinePrime: the traditional algorithm to find primes.<br/>
