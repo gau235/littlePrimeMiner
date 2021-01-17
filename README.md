@@ -11,7 +11,7 @@ as 200 times faster.
 <a href="http://c64.tw/w20/o/viewOpenSrc.jsp" target="_blank" > src </a><br/>
 <a href="http://c64.tw/w20/prime64Lgpl/prime64Lgpl3DiyPortable.zip" target="_blank" > Download (DIY portable version) </a><br/>
 
-<a href="http://c64.tw/w20/prime64Lgpl/jreMacOS.zip" target="_blank" > Java for Mac OS </a>
+<a href="https://www.azul.com/downloads/zulu-community/?version=java-11-lts&os=macos&architecture=x86-64-bit&package=jre" target="_blank" > Java for Mac OS </a>
 <br/>
 <br/>
 <img
@@ -22,7 +22,6 @@ as 200 times faster.
 <br/>
 to compile this program you need them:<br/>
 activation.jar<br/>
-chinese-utils-1.0.jar<br/>
 javax.mail.jar<br/>
 <br/>
 
